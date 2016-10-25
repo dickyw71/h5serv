@@ -1,5 +1,6 @@
 numpy==1.11.2
-h5py==2.6.0
+#h5py==2.6.0
+./wheelhouse/h5py-2.6.0-cp34-cp34m-win_amd64.whl
 requests==2.11.1
 tornado==4.4.2
 watchdog==0.8.3

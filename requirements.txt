@@ -1,8 +1,5 @@
-./wheelhouse/pip-8.1.2-py2.py3-none-any.whl
 numpy==1.11.2
-./wheelhouse/Cython-0.24.1-cp27-cp27m-win_amd64.whl
 h5py==2.6.0
-# ./wheelhouse/h5py-2.6.0-cp27-cp27m-win_amd64.whl
 requests==2.11.1
 tornado==4.4.2
 watchdog==0.8.3

@@ -1,8 +1,8 @@
 numpy==1.11.2
 #h5py==2.6.0
-#./wheelhouse/h5py-2.6.0-cp34-none-win_amd64.whl
-./install/h5py-2.5.0.win32-py3.4.exe
+./wheelhouse/h5py-2.6.0-cp27-cp27m-win32.whl
 requests==2.11.1
 tornado==4.4.2
 watchdog==0.8.3
 #h5json==1.0.2
+./wheelhouse/h5json-1.0.2-py2.py3-none-any.whl

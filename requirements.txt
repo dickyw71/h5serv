@@ -4,4 +4,4 @@ numpy==1.11.2
 requests==2.11.1
 tornado==4.4.2
 watchdog==0.8.3
-h5json==1.0.2
+#h5json==1.0.2
